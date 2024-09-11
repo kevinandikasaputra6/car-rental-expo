@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "128709372155",
+    "project_id": "car-rental-rn-3d0b1",
+    "storage_bucket": "car-rental-rn-3d0b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128709372155:android:81536b0fbf44d6b656685e",
+        "android_client_info": {
+          "package_name": "com.kevin.carrentalexpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128709372155-g7gvfmppc9hfov4anbdsslcmkrpfhu60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kevin.carrentalexpo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "128709372155-nv6lr49kgrimtdn8idan3vk8ov4frim1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkBO_Qj69xYmHkBrquPByM0zDr4sZ_enw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128709372155-nv6lr49kgrimtdn8idan3vk8ov4frim1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "128709372155-hplbffc4sm8voel5bjg0j93dn1o0dccj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anonymous.carrentalexpo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
