@@ -573,7 +573,7 @@ export default function payment() {
                       color: "#999999",
                     }}
                   >
-                  E-Tiket
+                    E-Tiket
                   </Text>
                   <View>
                     <View style={styles.cardPdf} onPress={pickImage}>
